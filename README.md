@@ -1,4 +1,4 @@
-# RL-GUI
+# RL Keys Animation
 Creates animation in realtime of keyboard and mouse clicks
 
 
