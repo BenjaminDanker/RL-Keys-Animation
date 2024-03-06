@@ -79,7 +79,7 @@ def create_image(lstkeyboard, lstmouse, image_keydown_lst, image_keyup_lst, imag
 
 # OpenCV animation
 def animation(display_image):
-	cv2.imshow("RL GUI", display_image)
+	cv2.imshow("RL Keys", display_image)
 
 	cv2.waitKey(20)
 
